@@ -1,6 +1,6 @@
 `this is code`
 
-[https://ak7.picdn.net/shutterstock/videos/33710797/thumb/5.jpg]
+[image](https://ak7.picdn.net/shutterstock/videos/33710797/thumb/5.jpg)
 
 
 
