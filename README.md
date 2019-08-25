@@ -1,144 +1,49 @@
 `this is code`
 
-<!-- wp:spacer {"height":16} -->
-<div style="height:16px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:paragraph -->
 <p>This page is in no way affiliated with Offensive Security. It is merely my journey towards preparing for the OSCP exam. This guide will follow Offensive Security's readily available PWK (Penetration Testing with Kali Linux) Syllabus. The syllabus won't be followed to a tee but I plan to cover the more complex topics. Along with following the syllabus, I will reference a number of books that guide me along the way. </p>
-<!-- /wp:paragraph -->
 
-<!-- wp:spacer {"height":20,"className":"desktop-only"} -->
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer desktop-only"></div>
-<!-- /wp:spacer -->
 
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":16} -->
-<div style="height:16px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:spacer {"height":16,"className":"desktop-only"} -->
-<div style="height:16px" aria-hidden="true" class="wp-block-spacer desktop-only"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading {"align":"center"} -->
 <h2 class="has-text-align-center"><a href="https://www.offensive-security.com/documentation/penetration-testing-with-kali.pdf">PWK Syllabus</a></h2>
-<!-- /wp:heading -->
 
-<!-- wp:paragraph -->
 <p>1 - Getting Comfortable with Kali Linux</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>2 - The Essential Tools</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>3 - Passive Information Gathering</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>4 - Active Information Gathering</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>5 - Vulnerability Scanning</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>6 - Buffer Overflows</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>7 - Win32 Buffer Overflow Exploitation</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>8 - Linux Buffer Overflow Exploitation</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>9 - Working with Exploits</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>10 - File Transfers</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>11 - Privilege Escalation</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>12 - Client Side Attacks</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>13 - Web Application Attacks</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>14 - Password Attacks</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>15 - Port Redirection and Tunneling</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>16 - The Metasploit Framework</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>17 - Bypassing Antivirus Software</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>18 - Assembling the Pieces: Penetration Test Breakdown</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:spacer {"height":16,"className":"desktop-only"} -->
-<div style="height:16px" aria-hidden="true" class="wp-block-spacer desktop-only"></div>
-<!-- /wp:spacer -->
 
-<!-- wp:spacer {"height":16,"className":"desktop-only"} -->
-<div style="height:16px" aria-hidden="true" class="wp-block-spacer desktop-only"></div>
-<!-- /wp:spacer -->
 
-<!-- wp:separator {"className":"is-style-wide"} -->
-<hr class="wp-block-separator is-style-wide"/>
-<!-- /wp:separator -->
 
-<!-- wp:spacer {"height":16,"className":"desktop-only"} -->
-<div style="height:16px" aria-hidden="true" class="wp-block-spacer desktop-only"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading {"align":"center"} -->
-<h2 class="has-text-align-center"></h2>
-<!-- /wp:heading -->
-
-<!-- wp:spacer {"height":16,"className":"desktop-only"} -->
-<div style="height:16px" aria-hidden="true" class="wp-block-spacer desktop-only"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:spacer {"height":16,"className":"desktop-only"} -->
-<div style="height:16px" aria-hidden="true" class="wp-block-spacer desktop-only"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:separator {"className":"is-style-wide"} -->
-<hr class="wp-block-separator is-style-wide"/>
-<!-- /wp:separator -->
 
 <!-- wp:spacer {"height":16,"className":"desktop-only"} -->
 <div style="height:16px" aria-hidden="true" class="wp-block-spacer desktop-only"></div>
