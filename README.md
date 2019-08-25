@@ -1,9 +1,5 @@
 `this is code`
 
-[image](https://ak7.picdn.net/shutterstock/videos/33710797/thumb/5.jpg)
-
-
-
 <!-- wp:spacer {"height":16} -->
 <div style="height:16px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
