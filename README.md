@@ -5,7 +5,11 @@
 
 <h2 class="has-text-align-center"><a href="https://www.offensive-security.com/documentation/penetration-testing-with-kali.pdf">PWK Syllabus</a></h2>
 
-<p>1 - Getting Comfortable with Kali Linux</p>
+# Table of Contents
+
+[1 - Getting Comfortable with Kali Linux] (#1 - Getting Comfortable with Kali Linux)
+  - [1.1 - Finding Your Way Around Kali] (#1.1 - Finding Your Way Around Kali)
+ 
 
 <p>2 - The Essential Tools</p>
 
@@ -49,13 +53,11 @@
 <div style="height:16px" aria-hidden="true" class="wp-block-spacer desktop-only"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading {"align":"center"} -->
-<h2 class="has-text-align-center">Books</h2>
-<!-- /wp:heading -->
 
-<!-- wp:list -->
+
+# Books
+
 <ul><li>Penetration Testing: A  Hands-On Introduction to Hacking</li><li>Black Hat Python</li><li>The Hacker Playbook 2 &amp; 3</li><li>Hacking: The Art of Exploitation</li><li>Kali Linux 2018: Windows Penetration Testing</li><li>Kali Linux 2 - Assuring Security by Penetration Testing</li><li>Gray Hat Hacking: The Ethical Hacker's Handbook</li><li>How Linux Works: What Every Superuser Should Know</li><li>The Internet Book</li><li>AWS Penetration Testing with Kali Linux</li><li>Mastering Embedded Linux Programming</li><li>Red Team Tactics</li></ul>
-<!-- /wp:list -->
 
 <!-- wp:spacer {"height":16,"className":"desktop-only"} -->
 <div style="height:16px" aria-hidden="true" class="wp-block-spacer desktop-only"></div>
