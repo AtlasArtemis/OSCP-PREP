@@ -7,19 +7,81 @@
 
 # Table of Contents
 
-[1 - Getting Comfortable with Kali Linux] (#1 - Getting Comfortable with Kali Linux)
-  - [1.1 - Finding Your Way Around Kali] (#1.1 - Finding Your Way Around Kali)
+* 1 - Getting Comfortable with Kali Linux
+  * 1.1 - Finding Your Way Around Kali
+    * 1.1.1 Booting up Kali Linux
+    * 1.1.2 The Kali Menu
+    * 1.1.3 Find, Locate, and Which
+    * Example
+  * 1.2 - Managing Kali Linux Services
+  * 1.3 - The Bash Environment
+  * 1.4 - Intro to Bash Scripting
  
 
-<p>2 - The Essential Tools</p>
+* 2 - The Essential Tools
+  * 2.1 - Netcat
+     * 2.1.1 - Connecting to a TCP/UDP Port
+     * 2.1.2 - Listening on a TCP/UDP Port
+     * 2.1.3 - Transfering Files with Netcat
+     * 2.1.4 - Remote Administration with Netcat
+     * 2.1.5 - Examples
+  * 2.2 - Ncat
+  * 2.3 - Wireshark
+  * 2.4 - Tcpdump
 
-<p>3 - Passive Information Gathering</p>
 
-<p>4 - Active Information Gathering</p>
+* 3 - Passive Information Gathering
+  * 3.1- Open Web Information Gathering
+    * 3.1.1 - Google
+    * 3.1.2 - Google Hacking
+    * 3.1.3 - Sources / Examples
+  * 3.2 - Email Harvesting
+  * 3.3 - Additional Resources
+  * 3.4 - Recon-ng
+    
+* 4 - Active Information Gathering
+  * 4.1 - DNS Enumeration
+    * 4.1.1 - Interacting with a DNS Server
+    * 4.1.2 - Automating Lookups
+    * 4.1.3 - Forward Lookup Brute Force
+    * 4.1.4 - Reverse Lookup Brute Force
+    * 4.1.5 - DNS Zone Transfers
+    * 4.1.6 - Relevant Tools in Kali Linux
+    * 4.1.7 - Examples
+  * 4.2 - Port Scanning
+    * 4.2.1 - TCP CONNECT / SYN Scanning
+    * 4.2.2 - UDP Scanning
+    * 4.2.3 - Common Port Scanning Pitfalls
+    * 4.2.4 - Port Scanning with Nmap
+    * 4.2.5 - OS Fingerprinting
+    * 4.2.6 - Banner Grabbing / Service Enumeration
+    * 4.2.7 - Nmap Scripting Engine (NSE)
+    * 4.2.8 - Example
+  * 4.3 - SMB Enumeration
+    * 4.3.1 - Scanning for the NetBIOS Service
+    * 4.3.2 - Null Session Enumeration
+    * 4.3.3 - Nmap SMB NSE Scripts
+    * 4.3.4 -Example
+  * 4.4 - SMTP Enumeration
+    * 4.4.1 - Example
+  * 4.5 - SNMP Enumeration
+     * 4.5.1 - MIB Tree
+     * 4.5.2 - Scanning for SNMP
+     * 4.5.3 - Windows SNMP Enumeration Example
+     * 4.5.4 - Example
 
-<p>5 - Vulnerability Scanning</p>
+* 5 - Vulnerability Scanning
+  * 5.1 - Vulnerability Scanning with Nmap
+  * 5.2 - The OpenVAS Vulnerability Scanner
+      * 5.2.1 - OpenVAS Initial Setup
+      * 5.2.2 - Example
 
-<p>6 - Buffer Overflows</p>
+* 6 - Buffer Overflows
+  * 6.1 - Fuzzing
+      * 6.1.1 - Vulnerability History
+      * 6.1.2 - A Word About DEP and ASLR
+      * 6.1.3 - Interacting with the POP3 Protocol
+      * 6.1.4 - Example
 
 <p>7 - Win32 Buffer Overflow Exploitation</p>
 
@@ -44,7 +106,6 @@
 <p>17 - Bypassing Antivirus Software</p>
 
 <p>18 - Assembling the Pieces: Penetration Test Breakdown</p>
-
 
 
 
